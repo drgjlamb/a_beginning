@@ -1,0 +1,1 @@
+This was my first attempt to understand and use Git and GitHub.  I've taken a course via Udemy that has helped a lot.
